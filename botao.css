@@ -1,0 +1,42 @@
+
+h1{
+    color: #565656;
+    text-align: center;
+    font:bold 36pt garamond;
+}
+body{
+    background: #d7cec7;
+}
+
+section{
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    width: 75%;
+    margin: auto;
+    height: 500px;
+    color: #565656;
+    font: bold 26pt garamond;
+}
+
+button{
+    font: normal 36pt garamond;
+    cursor: pointer;
+    width: 75%;
+    border-radius: 10px;
+    height: 200px;
+    background: #E91E63;
+    color: #fff;
+    margin: 1em;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 3px #AD1457;
+}
+
+
+
+footer{
+    color: #565656;
+    text-align: center;
+    font-style: italic;
+    
+}
